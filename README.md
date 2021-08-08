@@ -52,6 +52,5 @@
   - https://github.com/thkim0118/Algorithm-Study
 - 안드로이드 기본기 스터디 기록 저장소
   - https://github.com/thkim0118/AndroidStandardLevel
-<!---
 - 안드로이드 스터디 모임
---->
+  - https://github.com/kangraemin/Android-Seminar-Study

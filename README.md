@@ -15,7 +15,7 @@
 
 ## 경력
 ### 볼트마이크로
-* 2020.07 ~ Now
+* 2020.07 ~ 2021.09 (15 개월)
 * [카메라파이 라이브](https://play.google.com/store/apps/details?id=com.vaultmicro.camerafi.live) 서비스
   * 1000만 다운로드(21.08.08 기준)
   * 200여개 국가 글로벌 서비스(21.08.08 기준)

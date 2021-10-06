@@ -14,6 +14,9 @@
 * Multi-Module
 
 ## 경력
+### 의식주컴퍼니
+* 2021.10 ~ ing
+* [런드리고](https://play.google.com/store/apps/details?id=com.laundrygo.android) 서비스
 ### 볼트마이크로
 * 2020.07 ~ 2021.09 (15 개월)
 * [카메라파이 라이브](https://play.google.com/store/apps/details?id=com.vaultmicro.camerafi.live) 서비스

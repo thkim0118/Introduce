@@ -13,6 +13,13 @@
 * Clean Architecture
 * Multi-Module
 
+## 관심있는 책
+* Clean Architecture
+* Kotlin in action
+
+* Clean Code(~ing)
+* Effective Kotlin(~ing)
+
 ## 경력
 ### 의식주컴퍼니
 * 2021.10 ~ ing

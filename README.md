@@ -25,16 +25,20 @@
 ### 의식주컴퍼니
 * 2021.10 ~ ing
 * [런드리고](https://play.google.com/store/apps/details?id=com.laundrygo.android) 서비스
+  * 비대면 세탁 서비스 어플리케이션
+  * 사용자 세탁 정보 제공 및 컨텐츠 제공 개발
 ### 볼트마이크로
 * 2020.07 ~ 2021.09 (15 개월)
 * [카메라파이 라이브](https://play.google.com/store/apps/details?id=com.vaultmicro.camerafi.live) 서비스
   * 1000만 다운로드(21.08.08 기준)
   * 200여개 국가 글로벌 서비스(21.08.08 기준)
+  * 비디오 스트리밍 서비스 앱 개발
 * SW 개발 / 스페셜리스트
 ### 네톰
 * 2020.01 ~ 2020.06 (6 개월)
 * [Swing-U](https://play.google.com/store/apps/details?id=com.nethom.itemmanager) 서비스
-  * B2B
+  * B2B 서비스
+  * 블루투스 장치 데이터 통신
 * 연구소 / 사원
 
 ## 주요 진행 프로젝트

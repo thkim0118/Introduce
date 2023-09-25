@@ -2,24 +2,15 @@
 * Android Developer (2020.01 ~ Now)
 
 ## 관심있는 기술
-* Kotlin
-* Java
-* RxJava
-* Coroutine
-* LiveData
-* Hilt DI
-* AAC(Android Architecture Component)
 * MVVM
 * Clean Architecture
-* Multi-Module
 * Compose UI
 
 ## 관심있는 책
 * Clean Architecture
 * Kotlin in action
 * Clean Code
-
-* Effective Kotlin(~ing)
+* Effective Kotlin
 
 ## 경력
 ### 의식주컴퍼니
@@ -42,7 +33,7 @@
 * 연구소 / 사원
 
 ## 주요 진행 프로젝트
-- Compose UI를 이용한 Material 기반 디자인 UI 구현 경험
+- Compose UI를 이용한 디자인 UI 구현 경험
 <br></br>
 - WebRTC의 비디오, 오디오 로우 데이터를 이용한 기능 개발 경험
 <br></br>

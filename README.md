@@ -57,7 +57,8 @@
   - 촬영현장 구인구직 플랫폼 앱 개발
   - ComposeUI + Kotlin 개발
   - Android App Architecture 적용
-  - https://play.google.com/store/apps/details?id=com.fone.filmone&hl=ko&gl=US
+  - [github source](https://github.com/thkim0118/Film-job-searching)
+  - [플레이스토어](https://play.google.com/store/apps/details?id=com.fone.filmone&hl=ko&gl=US)
 - 알고리즘 스터디 기록 저장소
   - https://github.com/thkim0118/Algorithm-Study
 - 안드로이드 기본기 스터디 기록 저장소

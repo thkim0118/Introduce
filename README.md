@@ -1,17 +1,5 @@
 # 김태형 | Android / FE Engineer
 
-## Summary
-플랫폼의 경계를 넘어 문제를 해결하는 7년 차 엔지니어입니다.
-- **하드웨어 통신 제어:** Bluetooth/USB Serial 기반 안드로이드 개발 (전기전자제어공학 전공)
-- **Android/C++:** 글로벌 1,000만 다운로드 서비스의 실시간 비디오 파이프라인 구축
-- **앱 안정성:** 50만 다운로드 상용 앱 크래시프리 99.9% 달성
-- **자동화:** CI/CD 파이프라인 구축, AI Agent 기반 워크플로우 자동화
-- **웹 프론트엔드:** TypeScript/Next.js 기반 서비스 개발 및 운영
-
-하드웨어부터 앱, 웹까지 기술 스택에 구애받지 않고 제품의 문제를 끝까지 해결합니다.
-
----
-
 ## 기술 스택
 - **Language:** Kotlin, TypeScript, Dart (Flutter), C++
 - **Android:** Jetpack Compose, Coroutines, Android App Architecture (MVVM, MVI)
